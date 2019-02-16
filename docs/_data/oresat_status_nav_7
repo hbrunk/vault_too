@@ -1,0 +1,9 @@
+- name: Communications and Data Handling
+  link: ../../../github_personal_vault/vault/docs/OreSat_Top_Level_Status/Communications_and_Data_Handling
+  defcolor: black
+- name: Telemetry Processing
+  link: ../../../github_personal_vault/vault/docs/OreSat_Top_Level_Status/Communications_and_Data_Handling/Telemetry/Telemetry_Processing
+  defcolor: blue
+- name: Telemetry Formats
+  link: ../../../github_personal_vault/vault/docs/OreSat_Top_Level_Status/Communications_and_Data_Handling/Telemetry/Telemetry_Formats
+  defcolor: blue
