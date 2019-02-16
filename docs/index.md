@@ -1,5 +1,5 @@
 ---
-title: "OreSat Top Level Status"
+title: OreSat Top Level Status
 layout: default
 ---
 
