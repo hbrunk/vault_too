@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: basic
 title: OreSat Top Level Status
 ---
 
