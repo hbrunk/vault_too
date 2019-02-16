@@ -1,6 +1,6 @@
 ---
-title: OreSat Top Level Status
 layout: default
+title: OreSat Top Level Status
 ---
 
 
