@@ -1,6 +1,3 @@
----
-layout: basic
----
 
 
 Placeholder for content...
