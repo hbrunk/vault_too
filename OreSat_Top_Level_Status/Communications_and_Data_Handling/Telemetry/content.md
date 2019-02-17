@@ -1,10 +1,7 @@
-
-
 ---
-
-title:Telemetry
-layout:default
-nav_data:site.data.oresat_status_nav_7
+title: Telemetry
+layout: default
+nav_data: site.data.oresat_status_nav_7
 ---
 
 
