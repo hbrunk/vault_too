@@ -1,0 +1,18 @@
+- id: 0
+  dat:
+    - name: FooB
+      link: /
+    - name: Bar
+      link: /about.md
+- id: 1
+  dat:
+    - name: Foo
+      link: /
+    - name: BarB
+      link: /about.md
+- id: 2
+  dat:
+    - name: FooB
+      link: /
+    - name: BarB
+      link: /about.md
