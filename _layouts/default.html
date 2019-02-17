@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-
-<head>
-  <title>HTML Reference</title>
-</head>
-
-<body>
-The content of the document......
-</body>
-
+  <head>
+	  <meta charset="utf-8">
+	  <title>{{ page.title }}</title>
+  </head>
+  <body>
+	<h1> {{ page.title }} </h1>
+ 	{% include navigation.html %}
+    	{{ content }}
+  </body>
 </html>

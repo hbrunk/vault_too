@@ -1,0 +1,9 @@
+- name: Communications and Data Handling
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling
+  defcolor: black
+- name: Command Processing
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Commands/Command_Processing
+  defcolor: blue
+- name: Command Formats
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Commands/Command_Formats
+  defcolor: blue

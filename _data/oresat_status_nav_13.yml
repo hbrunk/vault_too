@@ -1,0 +1,18 @@
+- name: Communications and Data Handling
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling
+  defcolor: black
+- name: CW TLM Link Budget
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets/CW_TLM_Link_Budget
+  defcolor: blue
+- name: X.25 TLM Link Budget
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets/X.25_TLM_Link_Budget
+  defcolor: blue
+- name: Science TLM Link Budget
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets/Science_TLM_Link_Budget
+  defcolor: blue
+- name: DxWiFi Link Budget
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets/DxWiFi_Link_Budget
+  defcolor: blue
+- name: Command Link Budget
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets/Command_Link_Budget
+  defcolor: blue

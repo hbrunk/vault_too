@@ -1,0 +1,18 @@
+- name: OreSat Top Level Status
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status
+  defcolor: black
+- name: C&DH Architecture
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/C&DH_Architecture
+  defcolor: blue
+- name: Telemetry
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Telemetry
+  defcolor: blue
+- name: Commands
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Commands
+  defcolor: blue
+- name: Link Budgets
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Link_Budgets
+  defcolor: blue
+- name: Data Processing
+  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Communications_and_Data_Handling/Data_Processing
+  defcolor: blue
