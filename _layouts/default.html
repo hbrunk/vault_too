@@ -9,7 +9,7 @@
 	{{ page.id }}
 	<nav>
 		{% for part in site.data.yam %}
-		{% for item in {{ part }} %}
+		{% for item in part %}
     		    <a href="{{ item.link }}">
       		    {{ item.name }}
 		    {{ page.title }}
