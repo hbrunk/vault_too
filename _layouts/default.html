@@ -8,6 +8,12 @@
 	<h1> {{ page.title }} </h1>
 	{{ page.id }}
 	<nav>
+		{% for item in site.data[page.navdat] %}
+    		    <a href="{{ item.link }}">
+			    {{ item.name }}<br/>
+    		    </a>
+		{% endfor %}
+		  
 		{% for part in site.data.yam %}
 		{% for item in {{ part.dat }} %}
     		    <a href="{{ item.link }}">
