@@ -1,6 +1,6 @@
 ---
 title: foobarbaz
-layout: basic
+layout: default
 ---
 
 Placeholder for content...
