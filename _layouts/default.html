@@ -7,7 +7,7 @@
   <body>
 	<h1> {{ page.title }} </h1>
 	<nav>
-  		{% for item in site.data.yam[page.id] %}
+		{% for item in site.data.yam[{{ page.id }}] %}
     		<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
       		{{ item.name }}
     		</a>
