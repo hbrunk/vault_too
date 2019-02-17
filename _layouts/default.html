@@ -12,6 +12,7 @@
 		  {% for item in part %}
     		    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
       		    {{ item.name }}
+		    {{ page.title }}
     		    </a>
 		  {% endfor %}
   		{% endfor %}
