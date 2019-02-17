@@ -6,11 +6,14 @@
   </head>
   <body>
 	<h1> {{ page.title }} </h1>
+	{{ page.id }}
 	<nav>
-		{% for item in site.data.yam[{{ page.id }}] %}
-    		<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-      		{{ item.name }}
-    		</a>
+		{% for part in site.data.yam %}
+		  {% for item in part %}
+    		    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      		    {{ item.name }}
+    		    </a>
+		  {% endfor %}
   		{% endfor %}
 	</nav>
     	{{ content }}
