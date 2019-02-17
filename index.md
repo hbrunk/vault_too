@@ -1,5 +1,5 @@
 ---
-title: OreSat
+title: OreSat Two words
 layout: default
 ---
 
