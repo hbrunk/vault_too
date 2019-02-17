@@ -1,9 +1,9 @@
 - name: C&DH
-  link: /OreSat_Top_Level_Status/C&DH/Telemetry
+  link: /OreSat_Top_Level_Status/C&DH/
   defcolor: black
 - name: TLM Processing
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Telemetry/TLM_Processing
+  link: /OreSat_Top_Level_Status/C&DH/Telemetry/TLM_Processing/
   defcolor: blue
 - name: TLM Formats
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Telemetry/TLM_Formats
+  link: /OreSat_Top_Level_Status/C&DH/Telemetry/TLM_Formats/
   defcolor: blue

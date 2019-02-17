@@ -1,18 +1,18 @@
 - name: OreSat Top Level Status
-  link: /OreSat_Top_Level_Status/C&DH
+  link: /OreSat_Top_Level_Status/
   defcolor: black
 - name: C&DH Architecture
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/C&DH_Architecture
+  link: /OreSat_Top_Level_Status/C&DH/C&DH_Architecture/
   defcolor: blue
 - name: Telemetry
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Telemetry
+  link: /OreSat_Top_Level_Status/C&DH/Telemetry/
   defcolor: blue
 - name: Commands
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Commands
+  link: /OreSat_Top_Level_Status/C&DH/Commands/
   defcolor: blue
 - name: Link Budgets
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Link_Budgets
+  link: /OreSat_Top_Level_Status/C&DH/Link_Budgets/
   defcolor: blue
 - name: Data Processing
-  link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/C&DH/Data_Processing
+  link: /OreSat_Top_Level_Status/C&DH/Data_Processing/
   defcolor: blue
