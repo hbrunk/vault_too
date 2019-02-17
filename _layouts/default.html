@@ -7,21 +7,11 @@
   <body>
 	<h1> {{ page.title }} </h1>
 	{{ page.id }}
-	<nav>
 		{% for item in page.nav_data %}
-		    <a href="{{site.baseurl}}{{item.link}}">
-		      {{ item.name }}<br/>
-    		    </a>
+		      {{item.link}}
+		      {{ item.name }}
 		{% endfor %}
 		  
-		{% for part in site.data.yam %}
-		{% for item in {{ part.dat }} %}
-    		    <a href="{{ item.link }}">
-			    {{ item.name }}<br/>
-    		    </a>
-		  {% endfor %}
-  		{% endfor %}
-	</nav>
     	{{ content }}
   </body>
 </html>
