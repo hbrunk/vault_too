@@ -9,7 +9,7 @@
 	{{ page.id }}
 	<nav>
 		{% for item in site.data[page.navdat] %}
-		    <a href="{{ site.baseurl }}{{ item.link }}">
+		    <a href="{{site.baseurl}}{{item.link}}">
 			    {{ item.name }}<br/>
     		    </a>
 		{% endfor %}
