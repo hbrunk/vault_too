@@ -20,7 +20,7 @@
   link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Environmental_Testing
   defcolor: blue
 - name: Ground Station
-  link: /OreSat_Top_Level_Status/Ground_Station/README.md
+  link: /OreSat_Top_Level_Status/Ground_Station/
   defcolor: blue
 - name: Concept of Operations
   link: ../../../github_personal_vault/vault/OreSat_Top_Level_Status/Concept_of_Operations
