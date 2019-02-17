@@ -34,3 +34,10 @@ nav_data:
 
 
 Placeholder for content...
+
+
+	{{ page.id }}
+		{% for item in page.nav_data %}
+		      {{item.link}}
+		      {{ item.name }}
+		{% endfor %}
