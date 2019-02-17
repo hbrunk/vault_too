@@ -9,8 +9,8 @@
 	{{ page.id }}
 	<nav>
 		{% for part in site.data.yam %}
-		  {% for item in part %}
-    		    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+		{% for item in {{ part }} %}
+    		    <a href="{{ item.link }}">
       		    {{ item.name }}
 		    {{ page.title }}
     		    </a>
