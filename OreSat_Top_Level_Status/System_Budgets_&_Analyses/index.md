@@ -1,7 +1,6 @@
 ---
 title: System Budgets & Analyses
 layout: default
-nav_data_old: oresat_status_nav_1
 nav_data:
   - name: OreSat Top Level Status
     link: /OreSat_Top_Level_Status/

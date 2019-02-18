@@ -1,7 +1,10 @@
 ---
 title: Science TLM Link Budget
 layout: default
-nav_data: site.data.oresat_status_nav_16
+nav_data:
+  - name: Link Budgets
+    link: /OreSat_Top_Level_Status/C&DH/Link_Budgets/
+    defcolor: black
 ---
 
 

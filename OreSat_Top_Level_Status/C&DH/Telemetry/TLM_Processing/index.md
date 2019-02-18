@@ -1,7 +1,10 @@
 ---
 title: TLM Processing
 layout: default
-nav_data: site.data.oresat_status_nav_8
+nav_data:
+  - name: Telemetry
+    link: /OreSat_Top_Level_Status/C&DH/Telemetry/
+    defcolor: black
 ---
 
 
