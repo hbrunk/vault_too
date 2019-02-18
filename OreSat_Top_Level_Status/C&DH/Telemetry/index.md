@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: C&DH
     link: /OreSat_Top_Level_Status/C&DH/
-    defcolor: black
+    defcolor: red
   - name: TLM Processing
     link: /OreSat_Top_Level_Status/C&DH/Telemetry/TLM_Processing/
     defcolor: blue

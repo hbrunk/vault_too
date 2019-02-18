@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: OreSat Top Level Status
     link: /OreSat_Top_Level_Status/
-    defcolor: black
+    defcolor: red
   - name: C&DH Architecture
     link: /OreSat_Top_Level_Status/C&DH/C&DH_Architecture/
     defcolor: blue

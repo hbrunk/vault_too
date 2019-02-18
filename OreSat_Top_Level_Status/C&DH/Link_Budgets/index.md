@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: C&DH
     link: /OreSat_Top_Level_Status/C&DH/
-    defcolor: black
+    defcolor: red
   - name: CW TLM Link Budget
     link: /OreSat_Top_Level_Status/C&DH/Link_Budgets/CW_TLM_Link_Budget/
     defcolor: blue

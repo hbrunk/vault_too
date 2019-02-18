@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: OreSat Top Level Status
     link: /OreSat_Top_Level_Status/
-    defcolor: black
+    defcolor: red
   - name: Mass Budget
     link: /OreSat_Top_Level_Status/System_Budgets_&_Analyses/Mass_Budget/
     defcolor: blue
