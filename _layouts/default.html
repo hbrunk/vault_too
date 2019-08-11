@@ -47,7 +47,7 @@ body {
 <div class="sidenav">
 
 		{% for item in page.nav_data %}
-		    <a href="{{site.baseurl}}{{item.link}}"
+		    <a href="{{item.repo}}{{item.link}}"
 			    style="color: {{item.defcolor}};">
 		            {{ item.name }}<br/>
     		    </a>
