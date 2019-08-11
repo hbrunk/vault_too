@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: Design
     link: /OreSat_Review/Design/
-    repo: /vault_too
+    repo: /vault
     defcolor: red
   - name: Cirrus Flux Camera
     link: /Payload/Cirrus_Flux_Camera/

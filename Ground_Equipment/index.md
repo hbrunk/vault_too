@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: Design
     link: /OreSat_Review/Design/
-    repo: /vault_too
+    repo: /vault
     defcolor: red
   - name: SatNOGs
     link: /Ground_Equipment/SatNOGs/
