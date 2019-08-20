@@ -3,7 +3,7 @@ title: Video Compression
 layout: default
 nav_data:
   - name: OreSat Live Camera
-    link: /Payload/OreSat_Live_Camera/
+    link: /github_pages/Payload/OreSat_Live_Camera/
     repo: /vault_too
     defcolor: red
 ---
