@@ -15,6 +15,5 @@ nav_data:
     repo: /vault_too
     defcolor: blue
 ---
-
-
-Placeholder for content...
+This is a test of merging in content
+from a pre-existing README.
